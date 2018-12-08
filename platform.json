@@ -45,12 +45,12 @@
     "framework-arduinoespressif32": {
       "type": "framework",
       "optional": true,
-      "version": "~2.10000.0"
+      "version": "https://github.com/espressif/arduino-esp32.git"
     },
     "framework-espidf": {
       "type": "framework",
       "optional": true,
-      "version": "~3.30101.0"
+      "version": "https://github.com/espressif/esp-idf.git"
     },
     "framework-simba": {
       "type": "framework",
